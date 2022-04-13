@@ -1,0 +1,31 @@
+{
+	"fontsList": [
+		{
+			"name": "Arial Narrow,sans-serif"
+		},
+		{
+			"name": "Snell Roundhand, cursive"
+		},
+		{
+			"name": "Gloria Hallelujah, cursive"
+		},
+		{
+			"name": "Homemade Apple, cursive"
+		},
+		{
+			"name": "Indie Flower,monospace"
+		},
+		{
+			"name": "Mansalva, cursive"
+		},
+		{
+			"name": "Schoolbell, cursive"
+		},
+		{
+			"name": "Dancing Script, cursive"
+		},
+		{
+			"name": "Caveat,cursive"
+		}
+	]
+}

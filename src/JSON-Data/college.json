@@ -1,0 +1,25 @@
+{
+	"collegeList": [
+		{
+			"collegeName": "Aditya college",
+			"Degree": "B-tech",
+			"Branch": "Computer Science",
+			"start": "2015",
+			"end": "2021"
+		},
+		{
+			"collegeName": "Aditya college",
+			"Degree": "B-tech",
+			"Branch": "Computer Science",
+			"start": "2015",
+			"end": "2021"
+		},
+		{
+			"collegeName": "Aditya college",
+			"Degree": "B-tech",
+			"Branch": "Computer Science",
+			"start": "2015",
+			"end": "2021"
+		}
+	]
+}

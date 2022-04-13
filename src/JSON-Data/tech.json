@@ -1,0 +1,16 @@
+{
+	"technolgies": [
+		{
+			"skill": "React JS"
+		},
+		{
+			"skill": "HTML"
+		},
+		{
+			"skill": "CSS"
+		},
+		{
+			"skill": "Javascript"
+		}
+	]
+}

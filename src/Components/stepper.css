@@ -1,0 +1,52 @@
+.circle {
+	width: 29px;
+	height: 29px;
+	border-radius: 50%;
+	line-height: 19px;
+	background-color: green;
+	color: white;
+	border: 2px solid transparent;
+	cursor: pointer;
+}
+.stepWrapper {
+	display: flex;
+	justify-content: center;
+	margin-bottom: 60px;
+	margin-top: 60px;
+}
+
+.stepBlock .circleWrapper {
+	padding: 0px 150px;
+	position: relative;
+}
+
+.stepBlock .content {
+	padding: 0px auto;
+	position: relative;
+}
+
+.selected .circle {
+	color: black;
+	background-color: white;
+	border-color: green;
+}
+.stepBlock:not(:last-child) > .circleWrapper::after {
+	content: '';
+	width: 100%;
+	height: 2px;
+	position: absolute;
+	top: 0px;
+
+	bottom: 0px;
+	background-color: green;
+	margin: auto;
+	z-index: -1;
+}
+
+.stepBlock:not(:last-child) > .circleWrapper::after {
+	height: 2px;
+}
+
+.stepBlock:not(:last-child).selected > .circleWrapper::after {
+	height: 3px;
+}
